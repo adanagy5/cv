@@ -1,0 +1,22 @@
+
+
+body {
+  background-color: #ece2e1;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+}
+h1 {
+  color: #78c4d4;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+h3 {
+  color:#78c4d4;
+  font-family: "copperlate","papyrus",fantasy;
+}
